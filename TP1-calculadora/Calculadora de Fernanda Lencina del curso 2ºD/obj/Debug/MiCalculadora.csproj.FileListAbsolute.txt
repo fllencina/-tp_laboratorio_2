@@ -1,0 +1,58 @@
+C:\Users\Fernanda\source\repos\Entidades\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Calculadora de Fernanda Lencina del curso 2ºD.exe.config
+C:\Users\Fernanda\source\repos\Entidades\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Calculadora de Fernanda Lencina del curso 2ºD.exe
+C:\Users\Fernanda\source\repos\Entidades\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Calculadora de Fernanda Lencina del curso 2ºD.pdb
+C:\Users\Fernanda\source\repos\Entidades\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Entidades.exe
+C:\Users\Fernanda\source\repos\Entidades\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Entidades.pdb
+C:\Users\Fernanda\source\repos\Entidades\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Entidades.exe.config
+C:\Users\Fernanda\source\repos\Entidades\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Fernanda\source\repos\Entidades\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\Calculadora_de_Fernanda_Lencina_del_curso_2ºD.Form1.resources
+C:\Users\Fernanda\source\repos\Entidades\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\Calculadora_de_Fernanda_Lencina_del_curso_2ºD.Properties.Resources.resources
+C:\Users\Fernanda\source\repos\Entidades\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Fernanda\source\repos\Entidades\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\source\repos\Entidades\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Fernanda\source\repos\Entidades\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\Calculadora de Fernanda Lencina del curso 2ºD.exe
+C:\Users\Fernanda\source\repos\Entidades\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\Calculadora de Fernanda Lencina del curso 2ºD.pdb
+C:\Users\alumno\Desktop\test-TP-master\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Calculadora de Fernanda Lencina del curso 2ºD.exe.config
+C:\Users\alumno\Desktop\test-TP-master\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Calculadora de Fernanda Lencina del curso 2ºD.exe
+C:\Users\alumno\Desktop\test-TP-master\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Calculadora de Fernanda Lencina del curso 2ºD.pdb
+C:\Users\alumno\Desktop\test-TP-master\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\test-TP-master\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\test-TP-master\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\Calculadora_de_Fernanda_Lencina_del_curso_2ºD.Form1.resources
+C:\Users\alumno\Desktop\test-TP-master\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\Calculadora_de_Fernanda_Lencina_del_curso_2ºD.Properties.Resources.resources
+C:\Users\alumno\Desktop\test-TP-master\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\test-TP-master\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\test-TP-master\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\alumno\Desktop\test-TP-master\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\Calculadora de Fernanda Lencina del curso 2ºD.exe
+C:\Users\alumno\Desktop\test-TP-master\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\Calculadora de Fernanda Lencina del curso 2ºD.pdb
+C:\Users\alumno\Desktop\test-TP-master\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\test-TP-master\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Entidades.dll.config
+D:\VisualStudio\fernanda\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Entidades.dll
+D:\VisualStudio\fernanda\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Entidades.pdb
+D:\VisualStudio\fernanda\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Entidades.dll.config
+D:\VisualStudio\fernanda\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+D:\VisualStudio\fernanda\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\Calculadora_de_Fernanda_Lencina_del_curso_2ºD.Properties.Resources.resources
+D:\VisualStudio\fernanda\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+D:\VisualStudio\fernanda\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\VisualStudio\fernanda\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\MiCalculadora.csproj.CopyComplete
+D:\VisualStudio\fernanda\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Calculadora de Fernanda Lencina del curso 2ºC.exe.config
+D:\VisualStudio\fernanda\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Calculadora de Fernanda Lencina del curso 2ºC.exe
+D:\VisualStudio\fernanda\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Calculadora de Fernanda Lencina del curso 2ºC.pdb
+D:\VisualStudio\fernanda\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Entidades.exe.config
+D:\VisualStudio\fernanda\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\Calculadora_de_Fernanda_Lencina_del_curso_2ºC.Form1.resources
+D:\VisualStudio\fernanda\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\Calculadora de Fernanda Lencina del curso 2ºC.exe
+D:\VisualStudio\fernanda\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\Calculadora de Fernanda Lencina del curso 2ºC.pdb
+C:\Users\Fernanda\Desktop\test-TP\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Calculadora de Fernanda Lencina del curso 2ºC.exe.config
+C:\Users\Fernanda\Desktop\test-TP\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Calculadora de Fernanda Lencina del curso 2ºC.exe
+C:\Users\Fernanda\Desktop\test-TP\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Calculadora de Fernanda Lencina del curso 2ºC.pdb
+C:\Users\Fernanda\Desktop\test-TP\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Entidades.dll
+C:\Users\Fernanda\Desktop\test-TP\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Entidades.pdb
+C:\Users\Fernanda\Desktop\test-TP\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Entidades.dll.config
+C:\Users\Fernanda\Desktop\test-TP\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\bin\Debug\Entidades.exe.config
+C:\Users\Fernanda\Desktop\test-TP\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\test-TP\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\Calculadora_de_Fernanda_Lencina_del_curso_2ºC.Form1.resources
+C:\Users\Fernanda\Desktop\test-TP\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\Calculadora_de_Fernanda_Lencina_del_curso_2ºD.Properties.Resources.resources
+C:\Users\Fernanda\Desktop\test-TP\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Fernanda\Desktop\test-TP\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\test-TP\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\test-TP\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\Calculadora de Fernanda Lencina del curso 2ºC.exe
+C:\Users\Fernanda\Desktop\test-TP\TP1-calculadora\Calculadora de Fernanda Lencina del curso 2ºD\obj\Debug\Calculadora de Fernanda Lencina del curso 2ºC.pdb
