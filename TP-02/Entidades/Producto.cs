@@ -11,7 +11,7 @@ namespace Entidades_2018
     /// </summary>
     public abstract class Producto
     {
-       public  enum EMarca
+        public enum EMarca
         {
             Serenisima, Campagnola, Arcor, Ilolay, Sancor, Pepsico
         }
@@ -32,7 +32,7 @@ namespace Entidades_2018
         {
             return (string)this;
         }
-      
+
         public static explicit operator string(Producto p)
         {
             StringBuilder sb = new StringBuilder();
@@ -65,11 +65,11 @@ namespace Entidades_2018
         {
             return !(v1 == v2);
         }
-        public Producto(string patente, EMarca marca,ConsoleColor color)
+        public Producto(string patente, EMarca marca, ConsoleColor color)
         {
-            this.codigoDeBarras=patente;
-            this.marca=marca;
-            this.colorPrimarioEmpaque=color;
+            this.codigoDeBarras = patente;
+            this.marca = marca;
+            this.colorPrimarioEmpaque = color;
         }
     }
 }

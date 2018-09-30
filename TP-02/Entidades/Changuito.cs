@@ -121,7 +121,7 @@ namespace Entidades_2018
                 if (v == p)
                 {
                     c.productos.Remove(v);
-                   
+
                     break;
                 }
             }

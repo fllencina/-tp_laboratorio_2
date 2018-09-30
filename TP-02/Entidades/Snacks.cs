@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades_2018
 {
-    public class Snacks:Producto
+    public class Snacks : Producto
     {
         public Snacks(EMarca marca, string patente, ConsoleColor color)
             : base(patente, marca, color)
@@ -23,7 +23,7 @@ namespace Entidades_2018
             }
         }
 
-        public override  string Mostrar()
+        public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 

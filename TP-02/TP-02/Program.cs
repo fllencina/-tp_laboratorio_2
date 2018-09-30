@@ -15,8 +15,8 @@ namespace TP_02_2018
             Console.SetWindowPosition(0, 0);
             Console.SetWindowSize(Console.LargestWindowWidth / 2, Console.LargestWindowHeight - 2);
 
-            // Nombre del alumno
-           // Console.
+
+            Console.Title = "Fernanda Lencina 2 º C";
 
             Changuito changoDeCompras = new Changuito(6);
             Dulce c1 = new Dulce(Producto.EMarca.Sancor, "ASD012", ConsoleColor.Black);
@@ -51,8 +51,6 @@ namespace TP_02_2018
             Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.ReadKey();
             Console.Clear();
-
-            
 
             // Muestro solo Leches
             Console.WriteLine(changoDeCompras.Mostrar(changoDeCompras, Changuito.ETipo.Leche));
