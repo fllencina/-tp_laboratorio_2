@@ -100,9 +100,9 @@ namespace Entidades_2018
             foreach (Producto v in c.productos)
             {
                 if (v == p)
-                    return c;
+                    return c;  
             }
-            if (c.productos.Count < 6)
+            if (c.productos.Count < c.espacioDisponible)
             {
                 c.productos.Add(p);
             }
