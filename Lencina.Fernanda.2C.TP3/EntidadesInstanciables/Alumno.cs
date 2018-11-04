@@ -49,7 +49,7 @@ namespace EntidadesInstanciables
             }
             else
             {
-                sb.AppendFormat("ESTADO DE CUENTA: {0}\n", this.estadoCuenta);
+                sb.AppendFormat("ESTADO DE CUENTA: {0}", this.estadoCuenta);
             }
             sb.AppendLine(this.ParticiparEnClase());
             return sb.ToString();
@@ -62,7 +62,6 @@ namespace EntidadesInstanciables
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendFormat("TOMA CLASE DE {0}", this.claseQueToma);
-            sb.AppendLine("\n<------------------------------------------------------------------------>");
             return sb.ToString();
         }
         /// <summary>

@@ -92,6 +92,7 @@ namespace EntidadesInstanciables
             StringBuilder sb = new StringBuilder();
             foreach (Jornada a in uni.Jornada)
             {
+                sb.AppendLine("<------------------------------------------------------------------------>");
                 sb.AppendLine("JORNADA:");
                 sb.AppendLine(a.ToString());
             }
@@ -251,20 +252,19 @@ namespace EntidadesInstanciables
         /// <param name="a"></param>
         /// <returns>universidad</returns>
         public static Universidad operator +(Universidad u, Alumno a)
-        {
-            int flag = 0;
+        {        
             if(u!=a)
             {
                 foreach (Alumno e in u.alumnos)
                 {
-                    if (e == a)
-                    {
-                        flag = 1;
+                   // System.Diagnostics.Debug.Assert(a.DNI != 12234456);
+
+                    if (e.DNI == a.DNI)
+                    {                        
                         throw new AlumnoRepetidoException();        
                     }    
-                }
-                if (flag == 0)
-                { u.alumnos.Add(a); }
+                }                
+                 u.alumnos.Add(a); 
             }         
             return u;    
         }

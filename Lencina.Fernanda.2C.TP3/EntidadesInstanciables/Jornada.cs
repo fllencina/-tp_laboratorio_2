@@ -96,21 +96,17 @@ namespace EntidadesInstanciables
         /// <returns> jornada</returns>
         public static Jornada operator +(Jornada j, Alumno a)
         {
-            int flag = 0;
             if (j != a)
             {
                 foreach (Alumno e in j.alumnos)
                 {
-                    if (e == a)
+                    if (e.DNI == a.DNI)
                     {
-                        flag = 1;
                         throw new AlumnoRepetidoException();
                     }
                 }
-                if (flag == 0)
-                { j.alumnos.Add(a); }
+                j.alumnos.Add(a);
             }
-            
             return j;
         }
         #endregion
@@ -120,7 +116,7 @@ namespace EntidadesInstanciables
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendFormat("CLASE DE {0} POR {1}", this.Clase, this.Instructor.ToString());
-            sb.AppendLine("\nALUMNOS:");
+            sb.AppendLine("ALUMNOS:");
             foreach (Alumno alumno in this.Alumnos)
             {
                 if(alumno.DNI==this.instructor.DNI)
