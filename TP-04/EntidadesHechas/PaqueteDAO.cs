@@ -24,7 +24,7 @@ namespace EntidadesHechas
             try
             {
                 conexion.Open();//ver si tengo que agragar al insert el ID tambien aunque este config autoincremental
-                comando = new SqlCommand("INSERT INTO Paquetes(DireccionEntrega,TrackingId,Alumno) VALUES ('"+p.DireccionEntrega + "'," + p.TrackingID + ",'Lencina.Fernanda')", conexion);
+                comando = new SqlCommand("INSERT INTO Paquetes(DireccionEntrega,TrackingId,Alumno) VALUES ('"+p.DireccionEntrega + "','" + p.TrackingID + "','Lencina.Fernanda.2C')", conexion);
                 comando.ExecuteNonQuery();
                 retorno = true;
             }
