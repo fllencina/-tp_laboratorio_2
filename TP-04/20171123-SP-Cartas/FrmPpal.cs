@@ -154,14 +154,6 @@ namespace _20171123_SP_Cartas
 
         #endregion
 
-        private void groupBox2_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void FrmPpal_Load(object sender, EventArgs e)
-        {
-
-        }
+       
     }
 }
